@@ -45,6 +45,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>letstalk-ci-cd</finalName>
 	</build>
 
 </project>
